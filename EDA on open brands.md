@@ -10,7 +10,7 @@ images were crawled from several on-line retail marketplaces and cleaned(remove 
 
 1. Tiny objects: 
 
-   ![Open_Brands_compared_others](imgs\Open_Brands_compared_others.png)
+   ![Open_Brands_vs_others](imgs/Open_Brands_vs_others.png)
 
 2. Large-scale detection:
 
