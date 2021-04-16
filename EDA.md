@@ -22,6 +22,7 @@ images were crawled from several on-line retail marketplaces and cleaned(remove 
 
 
 
+# EDA - LogoDet-3K
 
-#### 
+[Wangjing1551/LogoDet-3K-Dataset (github.com)](https://github.com/Wangjing1551/LogoDet-3K-Dataset)
 
