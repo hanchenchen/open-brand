@@ -27,7 +27,8 @@
 - 初赛测试集：5w images
 
 # 9⃣️**YOLOv5**:
-- [ ] Read the paper *open brands dataset*
-- [ ] EDA
-- [ ] prepare codes for training 
+- [x] Read the paper *open brands dataset*
+- [ ] EDA with pandas
+- [x] prepare codes for training
+- [ ] Train LodoDet3K with YOLOv5s-default (will be completed on 22 April) 
 
